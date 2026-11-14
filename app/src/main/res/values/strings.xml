@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">TTDL</string>
+    <string name="app_short_name">TTDL</string>
+    <string name="top_bar_title">TikTok Downloader</string>
+    <string name="input_instruction">Paste a link or share directly to download videos.</string>
+    <string name="url_label">TikTok Link</string>
+    <string name="url_placeholder">https://www.tiktok.com/@user/video/&#8230;</string>
+    <string name="clear_input_desc">Clear input</string>
+    <string name="paste_button">Paste</string>
+    <string name="download_button">Download</string>
+    <string name="downloading_button">Downloading…</string>
+    <string name="invalid_url_error">Please enter a valid TikTok video link.</string>
+    <string name="trying_api_progress">Connecting to servers…</string>
+    <string name="all_apis_failed_error">All download servers are currently unavailable. Please try again later or try a different link.</string>
+    <string name="downloading_via_progress">Downloading via %1$s…</string>
+    <string name="download_started_progress">Download started successfully (%1$s)</string>
+    <string name="unknown_error">An unexpected error occurred: %1$s</string>
+    <string name="success_title">Video Saved</string>
+    <string name="success_message">Saved to Movies/TikTokDownloader</string>
+    <string name="source_api_label">Server: %1$s</string>
+    <string name="notification_download_title">TikTok Video</string>
+    <string name="notification_download_desc">Downloading video file</string>
+    <string name="badge_expressive">No Watermark</string>
+</resources>
